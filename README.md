@@ -3,7 +3,7 @@
 Data science is a multidisciplinary field that unifies statistics, data analysis,
 machine learning and their related methods to extract knowledge and insights.
 
-#Why Python?
+## Why Python?
 
 In this Introduction to Data Science course we’re learning data science with Python.
 As a general-purpose programming language, Python is now the most popular programming language in data science.
