@@ -9,7 +9,7 @@ cnt = 0
 for height in heights:
     if height > 188:
         cnt +=1
-print(cnt
+print(cnt)
 
 #This shows that there are five presidents who are taller than 188 cm
 
